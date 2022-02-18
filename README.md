@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidDecherf
 - 👀 I’m interested in ruby for SketchUp 
-- 🌱 I’m currently learning ruby
+- 🌱 I’m currently learning python leaving ruby in standy
 - 💞️ I’m looking to collaborate on ruby for SketchUp 
 - 📫 How to reach me ...
 
